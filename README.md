@@ -23,4 +23,4 @@ The stack uses the malloc and free of memory that we implemented ourselves using
 
 ## Screenshot from our project of the server and three clients:
 
-![WhatsApp Image 2022-04-27 at 15 22 51](https://user-images.githubusercontent.com/93916792/165521448-9368c73f-a426-4211-81e9-437a1f5a4ea7.jpeg)
+![Screenshot from 2022-05-26 12-39-25](https://user-images.githubusercontent.com/93916792/170462890-680eac3e-fdc0-47b7-842b-204ba1fead87.png)
